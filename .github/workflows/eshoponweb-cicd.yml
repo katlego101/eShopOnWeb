@@ -9,7 +9,7 @@ env:
   LOCATION: southafricanorth
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: e47b26ba-e805-45cf-9c23-40e86bd1c12d
-  WEBAPP-NAME: eshoponweb-webapp-katlegoseums
+  WEBAPP-NAME: eshoponweb-webapp-katlego
 
 
 jobs:
