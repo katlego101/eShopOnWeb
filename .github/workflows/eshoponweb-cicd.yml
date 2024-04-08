@@ -6,7 +6,7 @@ on: [push, workflow_dispatch]
 #Environment variables https://docs.github.com/en/actions/learn-github-actions/environment-variables
 env:
   RESOURCE-GROUP: rg-eshoponweb-katlego101
-  LOCATION: southafricanorth
+  LOCATION: southafricanorth 
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: e47b26ba-e805-45cf-9c23-40e86bd1c12d
   WEBAPP-NAME: eshoponweb-webapp-katlego
